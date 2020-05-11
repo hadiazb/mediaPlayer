@@ -1,0 +1,28 @@
+{
+  "name": "mediaplayer",
+  "version": "1.0.0",
+  "description": "Media Plauer para videos de una website",
+  "main": "assets/index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadiazb/mediaPlayer.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "node",
+    "Media",
+    "player"
+  ],
+  "author": "Hugo André Díaz Bernal <hugoandresdiazbernal@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hadiazb/mediaPlayer/issues"
+  },
+  "homepage": "https://github.com/hadiazb/mediaPlayer#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
